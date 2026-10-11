@@ -10,7 +10,7 @@
     }
   ],
   "vars": {
-    "ADMIN_ID": "REPLACE_WITH_YOUR_TELEGRAM_NUMERIC_ID",
+    "ADMIN_ID": "8012378900",
     "STARS_PER_PAPER": "100"
   }
 }
