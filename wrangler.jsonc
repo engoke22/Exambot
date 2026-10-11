@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "kcse-papers-bot",
+  "main": "index.js",
+  "compatibility_date": "2026-10-10",
+  "kv_namespaces": [
+    {
+      "binding": "BOT_KV",
+      "id": "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+    }
+  ],
+  "vars": {
+    "ADMIN_ID": "REPLACE_WITH_YOUR_TELEGRAM_NUMERIC_ID",
+    "STARS_PER_PAPER": "100"
+  }
+}
